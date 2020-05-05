@@ -8,7 +8,7 @@ For details about the LuxUS method see the [paper](https://www.biorxiv.org/conte
 $ singularity pull shub://ftabaro/luxus-singularity
 ```
 
-This will download a premade image from the Singularity Hub into the current workind directory into `luxus-singularity_latest.sif`. 
+This will download a premade image from the Singularity Hub into the current working directory into `luxus-singularity_latest.sif`. 
 
 ## Build local image
 
