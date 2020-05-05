@@ -36,14 +36,14 @@ OUTPUT_FILE=test.txt
 
 ```
 $ singularity run --app prepare luxus-singularity.sif \
-  -i "$INPUT_FOLDER"/proportion_table_test_data_diff1.txt \
-  -d "$INPUT_FOLDER"/design_matrix_test_data_diff1.txt \
+  -i $INPUT_FOLDER/proportion_table_test_data_diff1.txt \
+  -d $INPUT_FOLDER/design_matrix_test_data_diff1.txt \
   -o $OUTPUT_FOLDER \
   -r 12 \
   -t 1 \
   -u 0.1 \
-  -y "$OUTPUT_FOLDER"/window_mean_coverage_test_data_diff1.txt \
-  -z "$OUTPUT_FOLDER"/window_number_of_cytosines_test_data_diff1.txt
+  -y $OUTPUT_FOLDER/window_mean_coverage_test_data_diff1.txt \
+  -z $OUTPUT_FOLDER/window_number_of_cytosines_test_data_diff1.txt
 ```
 
 3. Run the analysis
