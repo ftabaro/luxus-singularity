@@ -2,6 +2,8 @@
 
 For details about the LuxUS method see the [paper](https://www.biorxiv.org/content/10.1101/536722v2) and the [repository](https://github.com/hallav/LuxUS).
 
+[![https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg](https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg)](https://singularity-hub.org/collections/4296)
+
 ## Download a premade LuxUS image from Singularity Hub
 
 ```
